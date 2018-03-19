@@ -1,0 +1,18 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: B227-8C71
+
+ Directorio de C:\DyCon-COMPmatlab\WP1_1035053
+
+19/03/2018  13:18    <DIR>          .
+19/03/2018  13:18    <DIR>          ..
+13/03/2017  13:01               312 Automatica_adj_sol.m
+13/03/2017  13:01               216 Automatica_argmax.m
+13/03/2017  13:01             4.396 Automatica_greedy_offline.m
+13/03/2017  13:01             3.928 Automatica_greedy_online.m
+13/03/2017  13:01             2.071 Automatica_minFindAdjCG.m
+13/03/2017  13:01               306 Automatica_projection.m
+13/03/2017  13:01               316 Automatica_sys_sol.m
+19/03/2018  13:18                 0 Greedy_Control.txt
+15/03/2018  10:33           579.967 poster-greedy16.pdf
+               9 archivos        591.512 bytes
+               2 dirs  233.362.661.376 bytes libres
