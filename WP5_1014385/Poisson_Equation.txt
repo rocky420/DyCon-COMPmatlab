@@ -1,0 +1,6 @@
+lecture_donnees_control.m
+maillages_control.m
+m_donnees_control.m
+PoissonEqNumerics-Biccari-HernandezSantamaria.pdf
+prog_control.m
+schemas_control.m
