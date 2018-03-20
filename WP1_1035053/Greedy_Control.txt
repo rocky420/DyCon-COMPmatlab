@@ -1,3 +1,4 @@
+poster-greedy16.pdf
 Automatica_adj_sol.m
 Automatica_argmax.m
 Automatica_greedy_offline.m
@@ -5,4 +6,3 @@ Automatica_greedy_online.m
 Automatica_minFindAdjCG.m
 Automatica_projection.m
 Automatica_sys_sol.m
-poster-greedy16.pdf
